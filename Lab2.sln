@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Print2DArray", "Print2DArra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwapSort", "SwapSort\SwapSort.vcxproj", "{C2D1272D-A5DB-4DB7-BF94-CD6E377D6B37}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shrink", "Shrink\Shrink.vcxproj", "{5E2D099E-3527-4709-9142-D52589E84CD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{C2D1272D-A5DB-4DB7-BF94-CD6E377D6B37}.Release|x64.Build.0 = Release|x64
 		{C2D1272D-A5DB-4DB7-BF94-CD6E377D6B37}.Release|x86.ActiveCfg = Release|Win32
 		{C2D1272D-A5DB-4DB7-BF94-CD6E377D6B37}.Release|x86.Build.0 = Release|Win32
+		{5E2D099E-3527-4709-9142-D52589E84CD3}.Debug|x64.ActiveCfg = Debug|x64
+		{5E2D099E-3527-4709-9142-D52589E84CD3}.Debug|x64.Build.0 = Debug|x64
+		{5E2D099E-3527-4709-9142-D52589E84CD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E2D099E-3527-4709-9142-D52589E84CD3}.Debug|x86.Build.0 = Debug|Win32
+		{5E2D099E-3527-4709-9142-D52589E84CD3}.Release|x64.ActiveCfg = Release|x64
+		{5E2D099E-3527-4709-9142-D52589E84CD3}.Release|x64.Build.0 = Release|x64
+		{5E2D099E-3527-4709-9142-D52589E84CD3}.Release|x86.ActiveCfg = Release|Win32
+		{5E2D099E-3527-4709-9142-D52589E84CD3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
