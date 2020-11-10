@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwapSort", "SwapSort\SwapSo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shrink", "Shrink\Shrink.vcxproj", "{5E2D099E-3527-4709-9142-D52589E84CD3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vector Database", "Vector Database\Vector Database.vcxproj", "{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{5E2D099E-3527-4709-9142-D52589E84CD3}.Release|x64.Build.0 = Release|x64
 		{5E2D099E-3527-4709-9142-D52589E84CD3}.Release|x86.ActiveCfg = Release|Win32
 		{5E2D099E-3527-4709-9142-D52589E84CD3}.Release|x86.Build.0 = Release|Win32
+		{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}.Debug|x64.ActiveCfg = Debug|x64
+		{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}.Debug|x64.Build.0 = Debug|x64
+		{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}.Debug|x86.Build.0 = Debug|Win32
+		{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}.Release|x64.ActiveCfg = Release|x64
+		{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}.Release|x64.Build.0 = Release|x64
+		{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}.Release|x86.ActiveCfg = Release|Win32
+		{EBAB1A39-7FAE-4BC9-AC3F-2452B9D681A6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
