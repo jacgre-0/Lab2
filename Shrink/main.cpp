@@ -1,6 +1,6 @@
 #include <iostream>
 
-void shrink_array(int* arr, int size);
+void shrink_array(int arr[], int size);
 
 int main() {
     int array[] = { 5, 5, 7, 6, 2, 2, 11, 11, 5, 4};
