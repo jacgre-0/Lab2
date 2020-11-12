@@ -15,12 +15,13 @@ int main() {
 
     while (true) {
         std::cout << "MENU: " << "\n"
-            << "1. Task 1\n"
-            << "2. Task 2\n"
-            << "3. Task 3\n"
-            << "4. Task 4\n"
-            << "5. Task 5\n"
-            << "6. Task 6\n"
+            << "1: Task 1\n"
+            << "2: Task 2\n"
+            << "3: Task 3\n"
+            << "4: Task 4\n"
+            << "5: Task 5\n"
+            << "6: Task 6\n"
+            << "-1: Exit"
             << "Make your choice: ";
         std::cin >> choice;
 
